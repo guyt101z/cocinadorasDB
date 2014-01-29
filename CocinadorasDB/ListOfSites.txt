@@ -1,0 +1,17 @@
+Manager Portal: http://www.lynnterest.com/cocinadoras/managers.php
+	
+Type in an employee ID to promote from server to manager
+
+
+
+Menu and Preferences: http://www.lynnterest.com/cocinadoras/
+	
+See full menu, hit customize to make it for your preference
+
+
+
+Server Portal: http://www.lynnterest.com/cocinadoras/servers.php
+
+Add new order
+	Delete items from an order
+	
